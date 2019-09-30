@@ -1,0 +1,24 @@
+_repo: Saratoga-National-Historical-Park-Junior-Ranger-Program_60317
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valosin, William
+    gutenberg_agent_id: '50891'
+    url: http://www.gutenberg.org/2009/agents/50891
+description: ''
+gutenberg_issued: '2019-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Saratoga National Historical Park (N.Y.) -- Problems and exercises -- Juvenile
+  literature'
+- !lcc 'PZ'
+- !lcc 'E201'
+- GITenberg
+title: Saratoga National Historical Park Junior Ranger Program
+url: http://www.gutenberg.org/ebooks/60317
