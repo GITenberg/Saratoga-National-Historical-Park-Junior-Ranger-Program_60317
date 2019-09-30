@@ -1,11 +1,16 @@
 _repo: Saratoga-National-Historical-Park-Junior-Ranger-Program_60317
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60317-h/images/cover.jpg
 creator:
   author:
     agent_name: Valosin, William
     gutenberg_agent_id: '50891'
     url: http://www.gutenberg.org/2009/agents/50891
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60317#Saratoga-National-Historical-Park-Junior-Ranger-Program
 gutenberg_issued: '2019-09-18'
 gutenberg_type: Text
 identifiers:
